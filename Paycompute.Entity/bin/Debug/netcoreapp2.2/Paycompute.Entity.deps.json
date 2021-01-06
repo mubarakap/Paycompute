@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Paycompute.Entity/2.1.26": {
+        "runtime": {
+          "Paycompute.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Paycompute.Entity/2.1.26": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.AssemblyInfoInputs.cache
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.AssemblyInfo.cs
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Persistence\bin\Debug\netcoreapp3.1\Paycompute.Persistence.deps.json
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Persistence\bin\Debug\netcoreapp3.1\Paycompute.Persistence.runtimeconfig.json
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Persistence\bin\Debug\netcoreapp3.1\Paycompute.Persistence.runtimeconfig.dev.json
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Persistence\bin\Debug\netcoreapp3.1\Paycompute.Persistence.dll
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Persistence\bin\Debug\netcoreapp3.1\Paycompute.Persistence.pdb
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Persistence\bin\Debug\netcoreapp3.1\Paycompute.Entity.dll
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Persistence\bin\Debug\netcoreapp3.1\Paycompute.Entity.pdb
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.csprojAssemblyReference.cache
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.csproj.CopyComplete
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.dll
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.pdb
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.genruntimeconfig.cache

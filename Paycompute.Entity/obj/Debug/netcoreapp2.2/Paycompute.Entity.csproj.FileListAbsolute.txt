@@ -1,0 +1,9 @@
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.deps.json
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.dll
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.pdb
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.csprojAssemblyReference.cache
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.AssemblyInfoInputs.cache
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.AssemblyInfo.cs
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.csproj.CoreCompileInputs.cache
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.dll
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.pdb
