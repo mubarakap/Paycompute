@@ -39,3 +39,4 @@ C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycom
 C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.Views.pdb
 C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.csproj.CopyComplete
 C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.genruntimeconfig.cache
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.cshtml.g.cs
