@@ -179,6 +179,7 @@ namespace Paycompute.Controllers
             EmployeeDetailViewModel model = new EmployeeDetailViewModel()
             {
                 Id = employee.Id,
+                FullName = employee.FullName,
                 EmployeeNo = employee.EmployeeNo,
                 Gender = employee.Gender,
                 Email = employee.Email,

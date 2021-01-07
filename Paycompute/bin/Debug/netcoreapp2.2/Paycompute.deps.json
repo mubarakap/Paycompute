@@ -172,6 +172,7 @@
       },
       "Paycompute.Serivces/2.1.26": {
         "dependencies": {
+          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
           "Paycompute.Entity": "2.1.26",
           "Paycompute.Persistence": "2.1.26"
         },
