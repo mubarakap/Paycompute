@@ -32,7 +32,7 @@ namespace Paycompute.Entity
         [Column(TypeName = "money")]
         public decimal ContractualEarnings { get; set; }
         [Column(TypeName = "money")]
-        decimal OvertimeEarnings { get; set; }
+        public decimal OvertimeEarnings { get; set; }
         [Column(TypeName = "money")]
         public decimal Tax { get; set; }
         [Column(TypeName = "money")]
