@@ -278,6 +278,9 @@ namespace Paycompute.Persistence.Migrations
 
                     b.Property<string>("NiNo");
 
+                    b.Property<decimal>("OvertimeEarnings")
+                        .HasColumnType("money");
+
                     b.Property<decimal>("OvertimeHours")
                         .HasColumnType("decimal(18, 2)");
 

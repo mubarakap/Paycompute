@@ -11,6 +11,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Paycompute.Persistence;
 using Paycompute.Serivces;
 using Paycompute.Serivces.Implementation;
+using Paycompute.Services;
+using Paycompute.Services.Implementation;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -46,6 +48,9 @@ namespace Paycompute
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddScoped<IEmployeeService, EmployeeService>();
+            services.AddScoped<IPayComputationService, PayComputationService>();
+            services.AddScoped<INationalInsuranceContributionService, NationalInsuranceContributionService>();
+            services.AddScoped<ITaxService, TaxService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

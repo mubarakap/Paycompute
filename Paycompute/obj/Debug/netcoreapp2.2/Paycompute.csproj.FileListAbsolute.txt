@@ -44,3 +44,9 @@ C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycom
 C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Edit.cshtml.g.cs
 C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Detail.cshtml.g.cs
 C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Index.cshtml.g.cs
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Create.cshtml.g.cs
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Detail.cshtml.g.cs
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Payslip.cshtml.g.cs
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute\bin\Debug\netcoreapp2.2\WkHtmlToPdf\wkhtmltoimage.exe
+C:\Users\mubarakap\Documents\Projects\Fiserv\Training\Project\pay_compute\Paycompute\bin\Debug\netcoreapp2.2\WkHtmlToPdf\wkhtmltopdf.exe
